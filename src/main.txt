@@ -1,7 +1,6 @@
-Proyecto Inicial 
+Proyecto inicial
 Funcionalidad 1
 Funcionalidad 2
 Funcionalidad 3
 Funcionalidad 4
 Funcionalidad 5
-
